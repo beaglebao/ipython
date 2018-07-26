@@ -12,6 +12,7 @@ from IPython.utils.path import (
     ensure_dir_exists, fs_encoding)
 from IPython.utils import py3compat
 
+#define and create function method
 def get_ipython_dir():
     """Get the IPython directory for this platform and user.
 

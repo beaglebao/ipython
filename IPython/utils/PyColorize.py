@@ -26,7 +26,7 @@ operators, numeric and string literals in different colors.
 
 It shows how to use the built-in keyword, token and tokenize modules to
 scan Python source code and re-emit it with no changes to its original
-formatting (which is the hard part).
+formatting (which is the hardest part).
 """
 
 __all__ = ['ANSICodeColors', 'Parser']
